@@ -1,7 +1,5 @@
 ﻿using FlexibleLoggingLibrary;
 using System;
-using System.Runtime.InteropServices;
-using System.Security.Principal;
 
 namespace FlexibleLoggingConsoleApp
 {
