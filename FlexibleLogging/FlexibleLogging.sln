@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexibleLoggingConsoleApp", "FlexibleLoggingConsoleApp\FlexibleLoggingConsoleApp.csproj", "{B3678F92-95CA-4929-98FE-2876F1B579D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexibleLoggingLibrary", "FlexibleLoggingLibrary\FlexibleLoggingLibrary.csproj", "{2C17E699-8C7A-4AA6-A3B3-D193E39C79B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3678F92-95CA-4929-98FE-2876F1B579D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3678F92-95CA-4929-98FE-2876F1B579D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3678F92-95CA-4929-98FE-2876F1B579D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3678F92-95CA-4929-98FE-2876F1B579D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C17E699-8C7A-4AA6-A3B3-D193E39C79B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C17E699-8C7A-4AA6-A3B3-D193E39C79B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C17E699-8C7A-4AA6-A3B3-D193E39C79B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C17E699-8C7A-4AA6-A3B3-D193E39C79B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F52FED-70C7-4F1B-B952-EB8C88436094}
+	EndGlobalSection
+EndGlobal
